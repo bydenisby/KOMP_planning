@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 500" role="img" aria-labelledby="title desc">
+  <title id="title">От зрителя к автору</title>
+  <desc id="desc">Молодые участники передают друг другу идеи и собирают общую конструкцию.</desc>
+  <rect width="1200" height="500" fill="#111111"/>
+  <path d="M0 390L1200 60v90L0 480z" fill="#d92d20"/>
+  <path d="M0 0h310L0 190zM1200 500H850l350-190z" fill="#e9dfc8"/>
+  <g stroke="#e9dfc8" stroke-width="8" fill="#111111">
+    <circle cx="210" cy="240" r="34"/><path d="M170 285h80l26 132h-42l-15-76-16 76h-42z"/>
+    <circle cx="440" cy="170" r="34"/><path d="M400 215h80l26 132h-42l-15-76-16 76h-42z"/>
+    <circle cx="670" cy="285" r="34"/><path d="M630 330h80l26 132h-42l-15-76-16 76h-42z"/>
+    <circle cx="900" cy="190" r="34"/><path d="M860 235h80l26 132h-42l-15-76-16 76h-42z"/>
+  </g>
+  <g fill="#d92d20" stroke="#111111" stroke-width="7">
+    <path d="M275 250h107l-22-22 18-18 55 49-55 49-18-18 22-22H275z"/>
+    <path d="M505 250h107l-22-22 18-18 55 49-55 49-18-18 22-22H505z"/>
+    <path d="M735 250h107l-22-22 18-18 55 49-55 49-18-18 22-22H735z"/>
+  </g>
+  <path d="M1015 104h90v216h-90z" fill="#e9dfc8" stroke="#111111" stroke-width="10"/>
+  <path d="M1032 104l28-45 28 45z" fill="#d92d20" stroke="#111111" stroke-width="8"/>
+  <rect x="1038" y="135" width="44" height="34" fill="#d92d20"/>
+  <rect x="42" y="30" width="438" height="58" fill="#111111" stroke="#e9dfc8" stroke-width="4"/>
+  <text x="64" y="67" fill="#e9dfc8" font-family="'Press Start 2P', monospace" font-size="21" letter-spacing="1">НЕ СМОТРИ. ВКЛЮЧАЙСЯ.</text>
+</svg>
