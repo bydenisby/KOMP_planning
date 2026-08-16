@@ -224,11 +224,11 @@ community-activism/
 
 Ниже — отдельные подборки готовых шаблонов, вынесенные из гайда для редакторов.
 
-- [Регулярные](smm_materials/regular-post-layouts.md)
+- [Регулярные](SMM/regular-post-layouts.md)
   - Поэтический кружок «КОМП.WORD»
   - Обсуждение книг «Ок, ставим библиотеку на КОМП»
   - Дни рождения
-- [Нерегулярные](smm_materials/irregular-post-layouts.md)
+- [Нерегулярные](SMM/irregular-post-layouts.md)
   - Анонсы мероприятий
   - Напоминания о предстоящих мероприятиях
   - Рассказы о прошедших мероприятиях
@@ -236,10 +236,10 @@ community-activism/
 
 ### Быстрая навигация по шаблонам
 
-- [Посты регулярной рубрики](smm_materials/regular-post-layouts.md#навигация)
-- [Посты нерегулярной рубрики](smm_materials/irregular-post-layouts.md#навигация)
+- [Посты регулярной рубрики](SMM/regular-post-layouts.md#навигация)
+- [Посты нерегулярной рубрики](SMM/irregular-post-layouts.md#навигация)
 
-> Источник: «Гайд для редакторов v.2.1.0.pdf»
+> Источник: [«Гайд для редакторов v.2.1.0.pdf»](<SMM/smm_materials/Гайд%20для%20редакторов%20v.2.1.0.pdf>)
 
 ---
 
