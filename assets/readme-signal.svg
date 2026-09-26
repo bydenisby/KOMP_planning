@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 720" role="img" aria-labelledby="title desc">
+  <title id="title">Встреча участников сообщества</title>
+  <desc id="desc">Четыре молодых человека обсуждают план за столом; справа на фоне виден маяк как общий ориентир.</desc>
+  <rect width="1600" height="720" fill="#efe9dc"/>
+  <path d="M0 0h1600v74H0zM0 646h1600v74H0z" fill="#101010"/>
+  <path d="M0 74h920v330H0z" fill="#d71920"/>
+  <text x="78" y="172" fill="#efe9dc" font-family="monospace" font-size="48" font-weight="900">ВМЕСТЕ</text>
+  <text x="78" y="228" fill="#efe9dc" font-family="monospace" font-size="48" font-weight="900">СОЗДАЁМ</text>
+  <rect x="588" y="126" width="250" height="182" fill="#101010"/>
+  <path d="M614 154h198v18H614zM614 194h126v14H614zM614 228h160v14H614z" fill="#efe9dc"/>
+  <path d="M1022 96h184v356h-184zM982 96h264l-42-44h-180zM974 452h280l54 194H920z" fill="#101010"/>
+  <g fill="#efe9dc"><path d="M1050 145h128v44h-128zM1050 232h128v44h-128zM1050 319h128v44h-128z"/></g>
+  <path d="M1114 52 850 0h-210l474 148 486-148h-210z" fill="#efe9dc" opacity=".9"/>
+  <path d="M190 455h690l94 132H96z" fill="#101010"/>
+  <path d="M114 587h824v28H114z" fill="#d71920"/>
+  <g fill="#101010">
+    <circle cx="210" cy="386" r="35"/><path d="M158 430h104l38 118h-48l-24-66-16 66h-54z"/>
+    <circle cx="432" cy="368" r="39"/><path d="M374 416h116l40 132h-53l-27-73-18 73h-58z"/>
+    <circle cx="660" cy="380" r="36"/><path d="M606 424h108l38 124h-50l-25-68-18 68h-53z"/>
+    <circle cx="844" cy="405" r="31"/><path d="M797 445h94l33 103h-44l-22-57-15 57h-46z"/>
+  </g>
+  <g fill="#d71920"><path d="M225 469h18v53h-18zM443 452h18v53h-18zM671 460h18v53h-18zM851 478h18v44h-18z"/></g>
+  <path d="M74 686h510v12H74zM1316 686h210v12h-210z" fill="#efe9dc"/>
+</svg>
