@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 650" role="img" aria-labelledby="title desc">
+  <title id="title">Путь от встречи к общему проекту</title>
+  <desc id="desc">Три последовательные сцены: молодые люди встречаются, берут роли и представляют общий проект на сцене.</desc>
+  <rect width="1600" height="650" fill="#efe9dc"/>
+  <path d="M0 0h1600v64H0zM0 586h1600v64H0z" fill="#101010"/>
+  <rect x="54" y="112" width="442" height="390" fill="#d71920"/>
+  <rect x="579" y="112" width="442" height="390" fill="#101010"/>
+  <rect x="1104" y="112" width="442" height="390" fill="#d71920"/>
+  <text x="54" y="98" fill="#101010" font-family="monospace" font-size="28" font-weight="900">01 ВСТРЕЧА</text>
+  <text x="579" y="98" fill="#101010" font-family="monospace" font-size="28" font-weight="900">02 РОЛИ</text>
+  <text x="1104" y="98" fill="#101010" font-family="monospace" font-size="28" font-weight="900">03 ПРОЕКТ</text>
+  <g fill="#101010">
+    <circle cx="174" cy="275" r="33"/><path d="M126 317h96l34 114h-44l-23-64-16 64h-47z"/>
+    <circle cx="291" cy="250" r="37"/><path d="M236 296h110l41 135h-50l-26-76-18 76h-56z"/>
+    <circle cx="404" cy="277" r="31"/><path d="M358 315h92l32 116h-42l-21-64-14 64h-47z"/>
+  </g>
+  <g fill="#efe9dc">
+    <circle cx="684" cy="273" r="34"/><path d="M635 316h98l37 117h-45l-24-65-16 65h-50z"/>
+    <circle cx="808" cy="247" r="38"/><path d="M752 295h112l42 138h-51l-27-78-18 78h-58z"/>
+    <circle cx="926" cy="275" r="32"/><path d="M878 316h96l35 117h-44l-22-65-16 65h-49z"/>
+  </g>
+  <g fill="none" stroke="#d71920" stroke-width="8" stroke-linecap="square" stroke-linejoin="miter">
+    <path d="M650 136h56v36h-32l-16 13v-13h-8z"/>
+    <path d="M782 132h50v50h-50zM782 148h50M795 122v18M819 122v18M795 165l9 9 17-20"/>
+    <path d="m895 175 15-15 28 28-15 15-28 8zM910 160l10-10 28 28-10 10"/>
+  </g>
+  <path d="M1160 414h330v48h-330z" fill="#101010"/>
+  <path d="M1202 266h246v148h-246z" fill="#efe9dc"/>
+  <path d="M1233 297h184v14h-184zM1233 328h128v14h-128zM1233 359h160v14h-160z" fill="#101010"/>
+  <g fill="#101010">
+    <circle cx="1182" cy="388" r="30"/><path d="M1138 427h88l28 77h-41l-20-42-13 42h-42z"/>
+    <circle cx="1472" cy="388" r="30"/><path d="M1428 427h88l28 77h-41l-20-42-13 42h-42z"/>
+  </g>
+  <path d="M760 35 690 0h140z" fill="#d71920"/>
+  <text x="800" y="556" fill="#101010" text-anchor="middle" font-family="monospace" font-size="34" font-weight="900">ВСТРЕЧАЕМСЯ. БЕРЁМ РОЛИ. СОЗДАЁМ.</text>
+</svg>

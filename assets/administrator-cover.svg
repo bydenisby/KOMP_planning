@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 420" role="img" aria-labelledby="title desc">
+  <title id="title">Администратор — держит рабочий ритм</title>
+  <desc id="desc">Силуэт администратора с планшетом на фоне сигнальных лучей.</desc>
+  <rect width="1400" height="420" fill="#101010"/>
+  <path d="M0 0h1400v22H0zM0 398h1400v22H0z" fill="#efe9dc"/>
+  <path d="M0 22h18v376H0zM1382 22h18v376h-18z" fill="#d71920"/>
+  <path d="M614 93 1012 44v100L614 200zM614 224l400 86v86L614 269z" fill="#d71920"/>
+  <circle cx="808" cy="82" r="34" fill="#efe9dc"/>
+  <path d="M795 115h26v25h-26z" fill="#d71920"/>
+  <path d="M769 141 795 132h26l27 9 26 99H744z" fill="#efe9dc"/>
+  <path d="m795 132 13 18 13-18 12 107h-50z" fill="#d71920"/>
+  <path d="m771 151-31 21-20 51 23 10 31-43zM849 151l25 21-5 41-24-3-4-30z" fill="#efe9dc"/>
+  <path d="M860 167h64v88h-64z" fill="#d71920"/>
+  <path d="M868 176h48v70h-48z" fill="#efe9dc"/>
+  <path d="M877 190h30v6h-30zM877 204h22v6h-22zM877 218h30v6h-30z" fill="#101010"/>
+  <path d="M762 240h43l-5 104-38 7zM808 240h43l14 104-38 7z" fill="#efe9dc"/>
+  <path d="M758 346h43v20h-52zM827 346h39l12 20h-49z" fill="#d71920"/>
+  <path d="M66 76h304v10H66zM66 342h180v8H66z" fill="#d71920"/>
+  <text x="66" y="168" fill="#efe9dc" font-family="monospace" font-size="62" font-weight="900">АДМИНИСТРАТОР</text>
+  <text x="68" y="224" fill="#d71920" font-family="monospace" font-size="26" font-weight="700">СВЯЗЬ / СРОКИ / ЯСНОСТЬ</text>
+  <text x="68" y="300" fill="#efe9dc" font-family="monospace" font-size="16" font-weight="700">РОЛЬ КОМАНДЫ  /  КОМП</text>
+</svg>
