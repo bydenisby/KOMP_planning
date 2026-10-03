@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ROLES/administrator.md",
-                "mode": "preview",
+                "file": "IDEOLOGY/ideology_materials/mainstream-culture.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "administrator"
+              "title": "mainstream-culture"
             }
           }
         ]
@@ -190,21 +190,26 @@
   },
   "active": "6f40c0a00c63a6ba",
   "lastOpenFiles": [
-    "ROLES/editor-designer.md",
+    "IDEOLOGY/IDEOLOGY.md",
+    "README.md",
     "ROLES/administrator.md",
+    "IDEOLOGY/ideology_materials/mainstream-culture.md",
+    "IDEOLOGY/SUBCULTURES.md",
+    "ROLES/speaker-moderator.md",
+    "assets/readme-signal.svg",
+    "assets/readme-network.svg",
+    "assets/readme-future.svg",
+    "assets/administrator-cover.svg",
+    "ROLES/levels.md",
+    "ROLES/editor-designer.md",
+    "ROLES/_role-template.md",
+    "ROLES/README.md",
+    "ROLES",
     "assets/administrator-during.svg",
     "assets/administrator-before.svg",
     "assets/administrator-after.svg",
-    "assets/administrator-cover.svg",
     "IDEOLOGY.md",
-    "README.md",
-    "ROLES/speaker-moderator.md",
     "SUBCULTURES.md",
-    "ideology_materials/Субкультуры и богема.pdf",
-    "ROLES/README.md",
-    "assets/readme-future.svg",
-    "assets/readme-network.svg",
-    "assets/readme-signal.svg",
-    "ROLES/levels.md"
+    "ideology_materials/Субкультуры и богема.pdf"
   ]
 }
