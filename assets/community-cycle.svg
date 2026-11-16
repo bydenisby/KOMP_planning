@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">Цикл общественного действия</title>
+  <desc id="desc">Схема из шести шагов: заметить, понять, встретиться, создать, передать, продолжить.</desc>
+  <rect width="1200" height="420" fill="#f2eee5"/>
+  <path d="M0 0h1200v28H0z" fill="#d71920"/>
+  <g font-family="monospace" font-weight="900" text-anchor="middle">
+    <g fill="#111111" font-size="24">
+      <text x="120" y="100">01</text><text x="320" y="100">02</text><text x="520" y="100">03</text>
+      <text x="720" y="100">04</text><text x="920" y="100">05</text><text x="1080" y="100">06</text>
+    </g>
+    <g fill="#d71920" font-size="30">
+      <text x="120" y="155">ЗАМЕТИТЬ</text><text x="320" y="155">ПОНЯТЬ</text><text x="520" y="155">ВСТРЕТИТЬСЯ</text>
+      <text x="720" y="155">СОЗДАТЬ</text><text x="920" y="155">ПЕРЕДАТЬ</text><text x="1080" y="155">ПРОДОЛЖИТЬ</text>
+    </g>
+  </g>
+  <g fill="none" stroke="#111111" stroke-width="8">
+    <path d="M55 260h130l-22-18m22 18-22 18M255 260h130l-22-18m22 18-22 18M455 260h130l-22-18m22 18-22 18M655 260h130l-22-18m22 18-22 18M855 260h130l-22-18m22 18-22 18"/>
+  </g>
+  <path d="M1035 260c50 0 90-35 90-80 0-40-32-72-72-72" fill="none" stroke="#d71920" stroke-width="8"/>
+  <path d="m1052 100 0 40 35-20z" fill="#d71920"/>
+  <g fill="#111111" font-family="monospace" font-size="18" font-weight="700" text-anchor="middle">
+    <text x="120" y="315">события</text><text x="320" y="315">контекст</text><text x="520" y="315">связи</text><text x="720" y="315">проекты</text><text x="920" y="315">знания</text><text x="1080" y="315">система</text>
+  </g>
+</svg>

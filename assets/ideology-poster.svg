@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 680" role="img" aria-labelledby="title desc">
+  <title id="title">Молодежное сообщество строит маяк</title>
+  <desc id="desc">Суровый красно-черный плакат с группой молодых людей и маяком.</desc>
+  <rect width="1200" height="680" fill="#111111"/>
+  <path d="M0 530 1200 250V680H0Z" fill="#d71920"/>
+  <path d="M710 90h190v360H710zM665 90h280l-45-52H710zM670 450h270l55 230H615z" fill="#f2eee5"/>
+  <path d="M735 140h140v48H735zM735 235h140v48H735zM735 330h140v48H735z" fill="#111111"/>
+  <path d="M805 38 610 0 520 0l285 110L1090 0h-120z" fill="#f2eee5" opacity=".8"/>
+  <g fill="#111111">
+    <circle cx="215" cy="445" r="28"/><path d="M180 480h70l28 130h-35l-18-74-18 74h-38z"/>
+    <circle cx="325" cy="410" r="30"/><path d="M285 448h80l28 160h-38l-22-95-12 95h-42z"/>
+    <circle cx="445" cy="465" r="24"/><path d="M415 495h60l30 115h-34l-22-65-8 65h-35z"/>
+  </g>
+  <path d="M78 118h500v32H78zm0 52h350v18H78z" fill="#f2eee5"/>
+  <text x="78" y="300" fill="#f2eee5" font-family="monospace" font-size="74" font-weight="900" letter-spacing="2">МЫ</text>
+  <text x="78" y="378" fill="#f2eee5" font-family="monospace" font-size="74" font-weight="900" letter-spacing="2">СТРОИМ</text>
+  <text x="78" y="456" fill="#f2eee5" font-family="monospace" font-size="74" font-weight="900" letter-spacing="2">МАЯКИ</text>
+  <text x="78" y="625" fill="#111111" font-family="monospace" font-size="22" font-weight="700">ИНТЕЛЛЕКТ • КУЛЬТУРА • ДЕЙСТВИЕ</text>
+</svg>

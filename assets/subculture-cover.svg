@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" role="img" aria-labelledby="title desc">
+  <title id="title">Молодёжь и культурный маяк</title>
+  <desc id="desc">Суровая конструктивистская иллюстрация: молодые люди строят маяк из геометрических форм.</desc>
+  <rect width="1200" height="700" fill="#e9dfc8"/>
+  <path d="M0 0h520L0 520z" fill="#d92d20"/>
+  <path d="M1200 0H850L1200 350z" fill="#111111"/>
+  <path d="M0 590h1200v110H0z" fill="#111111"/>
+  <path d="M0 590h1200" stroke="#d92d20" stroke-width="12"/>
+  <g fill="#e9dfc8" stroke="#111111" stroke-width="10">
+    <path d="M805 120h120l34 360H770z"/>
+    <path d="M770 480h190l38 52H732z"/>
+    <path d="M785 105l80-54 80 54z"/>
+    <rect x="814" y="165" width="102" height="68" fill="#d92d20"/>
+  </g>
+  <path d="M865 48V0M865 48l-88-28M865 48l88-28" stroke="#111111" stroke-width="12"/>
+  <g fill="#111111" stroke="#e9dfc8" stroke-width="5" stroke-linejoin="round">
+    <circle cx="250" cy="430" r="34"/>
+    <path d="M218 475h64l20 113h-33l-12-62-17 62h-34z"/>
+    <path d="M230 493l-78 64 18 23 83-49z"/>
+    <path d="M270 493l72 48-15 23-78-38z"/>
+    <rect x="330" y="515" width="70" height="42" fill="#d92d20"/>
+
+    <circle cx="470" cy="360" r="34"/>
+    <path d="M438 405h64l22 130h-35l-12-75-15 75h-34z"/>
+    <path d="M448 425l-78 48 13 25 85-38z"/>
+    <path d="M495 425l72 60-18 21-76-49z"/>
+    <rect x="556" y="458" width="68" height="42" fill="#d92d20"/>
+
+    <circle cx="670" cy="445" r="34"/>
+    <path d="M638 490h64l23 112h-35l-13-62-15 62h-34z"/>
+    <path d="M648 510l-67 62 18 20 72-48z"/>
+    <path d="M697 510l72 50-16 23-78-40z"/>
+    <path d="M776 490v-105" stroke="#111111"/>
+    <path d="M776 385h65l-33 29z" fill="#d92d20"/>
+  </g>
+  <g fill="#d92d20" stroke="#111111" stroke-width="7">
+    <rect x="720" y="535" width="70" height="42"/>
+    <rect x="795" y="535" width="70" height="42"/>
+  </g>
+  <g fill="#d92d20">
+    <rect x="154" y="121" width="166" height="18"/>
+    <rect x="154" y="156" width="92" height="18"/>
+    <path d="M1040 452h88v18h-88zM1080 416h48v18h-48z"/>
+  </g>
+  <rect x="54" y="44" width="410" height="56" fill="#111111"/>
+  <text x="76" y="80" fill="#e9dfc8" font-family="'Press Start 2P', monospace" font-size="22" letter-spacing="1">СОЗДАВАТЬ ВМЕСТЕ</text>
+</svg>
