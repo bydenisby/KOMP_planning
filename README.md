@@ -92,7 +92,7 @@ KOMP_PLANNING/
 Определить первые функциональные роли:
 
 - [спикер (модератор)](ROLES/speaker-moderator.md);
-- [администратор](administrator.md);
+- [администратор](ROLES/administrator.md);
 - [редактор (дизайнер)](ROLES/editor-designer.md);
 - ведущий;
 - SMM;
